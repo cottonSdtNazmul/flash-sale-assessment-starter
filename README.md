@@ -1,4 +1,4 @@
-# Senior Backend Take-Home Assessment: Flash Sale API
+# Home Assessment: Flash Sale API
 
 Welcome! This task evaluates architectural decision-making, concurrency control, and backend reliability under high load.
 
