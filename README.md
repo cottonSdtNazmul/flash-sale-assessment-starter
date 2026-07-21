@@ -49,7 +49,7 @@ The database contains an item with **10 units in stock**. During the flash sale,
 ---
 
 ## 📋 Submission Guidelines
-1. Push your code to a private GitHub repository and invite us, or submit a ZIP file.
+1. Push your code to a public GitHub repository and share the link with us, or submit a ZIP file.
 2. Include a **`SUBMISSION.md`** file answering:
    * **Concurrency Strategy:** How did you handle race conditions and prevent double-selling?
    * **Trade-offs & Alternatives:** What alternative approaches did you consider and why did you pick this one?
